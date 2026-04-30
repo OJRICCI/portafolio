@@ -385,6 +385,7 @@ document.addEventListener('DOMContentLoaded',()=>{
         expHeading.classList.add('revealed');
       } else {
         expHeading.classList.remove('revealed');
+   
       }
     });
   }
